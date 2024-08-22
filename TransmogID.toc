@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: |cFF00FF00[дохлый]|r NG-TransmogID
+## Author: dddhhhlll | дохлый
+## Notes-ruRU: NOBLEGARDEN RP | Аддон получения трансмогов других игроков.
+## Version: 1.0
+
+TransmogID.lua
